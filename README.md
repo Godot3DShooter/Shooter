@@ -1,1 +1,1 @@
-# Shooter
+Game template provided by godot, worked out by zk12 and Ghhnu
